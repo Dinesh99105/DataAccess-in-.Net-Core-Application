@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\NoSqlDBSolution\DataAccessLibrary\bin\Debug\netcoreapp3.1\DataAccessLibrary.deps.json
+C:\Users\User\source\repos\NoSqlDBSolution\DataAccessLibrary\bin\Debug\netcoreapp3.1\DataAccessLibrary.dll
+C:\Users\User\source\repos\NoSqlDBSolution\DataAccessLibrary\bin\Debug\netcoreapp3.1\DataAccessLibrary.pdb
+C:\Users\User\source\repos\NoSqlDBSolution\DataAccessLibrary\obj\Debug\netcoreapp3.1\DataAccessLibrary.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\NoSqlDBSolution\DataAccessLibrary\obj\Debug\netcoreapp3.1\DataAccessLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\NoSqlDBSolution\DataAccessLibrary\obj\Debug\netcoreapp3.1\DataAccessLibrary.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\NoSqlDBSolution\DataAccessLibrary\obj\Debug\netcoreapp3.1\DataAccessLibrary.AssemblyInfo.cs
+C:\Users\User\source\repos\NoSqlDBSolution\DataAccessLibrary\obj\Debug\netcoreapp3.1\DataAccessLibrary.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\NoSqlDBSolution\DataAccessLibrary\obj\Debug\netcoreapp3.1\DataAccessLibrary.dll
+C:\Users\User\source\repos\NoSqlDBSolution\DataAccessLibrary\obj\Debug\netcoreapp3.1\DataAccessLibrary.pdb
